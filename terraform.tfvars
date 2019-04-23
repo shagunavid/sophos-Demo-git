@@ -40,7 +40,7 @@ hard_expiry = false
 max_password_age = 100
 instance_type = "t2.micro"
 arn_name = "some_topic"
-require_lowercase_characters = false
+require_lowercase_characters = true
 
 
 is_multi_region_trail = true
